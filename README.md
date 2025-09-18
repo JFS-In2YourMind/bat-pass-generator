@@ -1,9 +1,9 @@
-# 🦇 Bat Pass Generator (React Native + TypeScript)
+#  Bat Pass Generator (React Native + TypeScript)
 
 App React Native que simula o **sequenciador de senhas do Batman**.  
 Gera senhas personalizadas (tamanho, maiúsculas, minúsculas, números, símbolos) e copia para a área de transferência.
 
-## 🚀 Como rodar (Expo)
+##  Como rodar (Expo)
 ```bash
 npm install -g expo-cli
 npm install
@@ -11,7 +11,7 @@ npm start
 ```
 Abra o app com o **Expo Go** (Android/iOS) ou rode em emulador.
 
-## 📂 Estrutura
+##  Estrutura
 ```
 bat-pass-generator/
 ├─ App.tsx
@@ -21,5 +21,3 @@ bat-pass-generator/
 ├─ tsconfig.json
 └─ assets/ (opcional)
 ```
-
-> Projeto gerado em 2025-09-18.
